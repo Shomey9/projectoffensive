@@ -29,4 +29,4 @@ A directory designed to store and organize professional e-sport player cards
 Muhammad Rendusara\
 [LinkedIn](https://www.linkedin.com/in/hadyanrendusara/)\
 [GitHub](https://github.com/Shomey9)\
-hadyanrendusara@yahoo.com
+adyrendusara@gmail.com
